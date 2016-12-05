@@ -1,0 +1,4 @@
+1. New Game
+2. Continue
+3. How to play 
+4. Exit
